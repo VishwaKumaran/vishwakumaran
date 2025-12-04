@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I’m Vishwa, a Data Scientist specialized in turning data into reliable, high-performance machine learning solutions.
+I’m [**Vishwa**](https://www.vishwaelankumaran.com), a Data Scientist specialized in turning data into reliable, high-performance machine learning solutions.
 
 I work on data pipelines, modeling, and production-grade ML systems with a strong focus on accuracy, speed, and scalability. I care as much about clean data and solid evaluation as I do about deployment.
 
