@@ -1,21 +1,21 @@
 ## Hey there! 👋
 
-I’m [**Vishwa**](https://www.vishwaelankumaran.com), a Data Scientist specialized in turning data into reliable, high-performance machine learning solutions.
+I’m [**Vishwa**](https://www.vishwaelankumaran.com), a Data Scientist who loves turning complex problems into automated, scalable, and production-ready systems.
 
-I work on data pipelines, modeling, and production-grade ML systems with a strong focus on accuracy, speed, and scalability. I care as much about clean data and solid evaluation as I do about deployment.
+I specialize in data pipelines, machine learning models, and end-to-end automation, with a strong focus on performance, reliability, and clean engineering. If a process can be automated, I’ll automate it.
 
-If a model is slow, unstable, or poorly validated — I’ll optimize it.
+I also work with cloud infrastructure to deploy and monitor real-world ML systems.
 
 Main stack:  
-Python, Pandas/Polars, NumPy, Scikit-learn, PyTorch, SQL, FastAPI, Docker, AWS, GCP and more ...
+Python, Pandas, NumPy, Scikit-learn, PyTorch, SQL, FastAPI, Docker, AWS, GCP, PostgreSQL, MongoDB and more ...
 
-Most of my repositories focus on machine learning, data analysis, automation, and model deployment.  
-My pinned projects highlight real-world ML use cases and production-ready pipelines.
+Most of my repositories focus on machine learning, data automation, cloud-ready backends, and model deployment.  
+My pinned projects highlight real-world ML systems built for scale.
 
-Always learning. Always optimizing.
+Always building. Always automating. Always optimizing.
 
 ### Fun Facts:
-- I train consistently at the gym
-- I enjoy building ML tools more than dashboards  
-- I care more about performance than flashy visuals  
-- **Hobbies**: data science, fitness, building things, watching anime
+- I train consistently at the gym  
+- I enjoy automating boring tasks  
+- I care more about system efficiency than dashboards  
+- **Hobbies**: data science, automation, fitness
